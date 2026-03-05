@@ -180,17 +180,9 @@ The saved username automatically fills the login field.
 
 The backend can be deployed using platforms like **Render**, and the frontend can be deployed using **Vercel** or **Netlify**.
 
----
 
-## 📹 Project Demo
 
-You can include a screen recording link here explaining the project and its functionality.
-
----
-
-## 👨‍💻 Author
-
-**Sri Charan**
 
 GitHub:
-https://github.com/SriCharan55
+https://github.com/SriCharan55/Login
+
